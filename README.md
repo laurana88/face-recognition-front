@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Face Recognition Application
+
+Created this small application via the Complete Web Developer Course by Zero to Mastery.
+
+[Live URL](https://smart-brain-laura.herokuapp.com/)
+
+[Github Repository for the Backend](https://github.com/laurana88/face-recognition-backend)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
